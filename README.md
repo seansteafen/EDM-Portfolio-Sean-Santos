@@ -16,3 +16,4 @@ Outside of academics, I enjoy experimenting with new coding projects, diving int
 - Elementary: Angeles Elementary School
 
 # Project
+![Midterm Lab Task 1 Data Cleaning using Excel](Midterm%20lab%201)
